@@ -8,7 +8,10 @@
 - ![Nelson](https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif)
 
 <div>
-  <img src="https://user-images.githubusercontent.com/95982650/217250559-0ec52c46-1a79-42ab-8d7f-4697e19cceab.png" />
+  <img src="https://user-images.githubusercontent.com/95982650/217250559-0ec52c46-1a79-42ab-8d7f-4697e19cceab.png" width="100" height="100" align="left"/>
+  <div>
+    <img src="https://userimages.githubusercontent.com/95982650/217252667-0291b599-69f7-4cfd-8995-c3a058d3e4b7.png" width="40" height="40"/>   
+  </div>
 </div>
 
 <!---
