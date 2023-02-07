@@ -4,12 +4,14 @@
   
 ## Some Things You Might Want To Know <img src="https://user-images.githubusercontent.com/95982650/217330060-490c1e5e-1dfc-4a92-bb37-a6998bb9ce0c.png" width="30" />...
 
-- *👀 I’m interested in ...Web development. Mainly Frontend Path*
-- *🌱 I’m currently learning a fullstack framework.
-- **💞️I’m going to update this README when am ready to land a job**.
-- ***📫 How to reach me ...(EMAIL: onelsonuchechukwu@gmail.com )
-- *I love communicating with people of same interest.
-- ***My frontendmentor.io page (https://www.frontendmentor.io/profile/nelsonleone)
+ *👀 Am A Web Developer....Mainly Frontend Path
+ *🌱 I’m currently learning a fullstack framework.
+ **I’m going to update this README when am ready to land a job.
+ ***📫 How to reach me ...(EMAIL: onelsonuchechukwu@gmail.com )
+ *I love communicating with people of same interest.
+ ***My frontendmentor.io page (https://www.frontendmentor.io/profile/nelsonleone)
+ 
+ 
 
 ## Tech Accretion⭐
 
