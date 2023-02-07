@@ -14,25 +14,20 @@
       <img src="https://user-images.githubusercontent.com/95982650/217254138-eeb64c65-0c5f-4f94-8671-0437d8d22f23.png" width="50"  />
   </div>
   
+  
+  
   <div>
     <img src="https://user-images.githubusercontent.com/95982650/217256846-df4b3dee-ca47-4773-84fa-b2fb2310a2d1.png" width="70" />
     <img src="https://user-images.githubusercontent.com/95982650/217259525-3aa1c059-cda9-4b54-ab8a-9adffc364e5d.png" width="50" />
     <img src="https://user-images.githubusercontent.com/95982650/217261260-e8ddcc50-482b-4b04-8115-2a88ac50abcd.png" width="50" />
   </div>
   
+  
+  
   <div>
     <img src="https://user-images.githubusercontent.com/95982650/217260559-de75a0da-864e-4402-8c84-83ac1b9d7a4e.png" width="50" />
   </div>
   
-  <style>
-    div{
-     display:flex;
-     flex-direction:column;
-    }
-  </style>
-  
-      
-   
 
 <!---
 nelsonleone/nelsonleone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
