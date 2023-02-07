@@ -2,7 +2,8 @@
 
   <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
   
-## Some Things You Might Want To Know ⭐...
+## Some Things You Might Want To Know <img src="https://user-images.githubusercontent.com/95982650/217329750-e60e7638-49c5-4d4f-92a5-eb9ec83f60e5.png" width="10" />...
+
 - *👀 I’m interested in ...Web development. Mainly Frontend Path*
 - *🌱 I’m currently learning a fullstack framework.
 - **💞️I’m going to update this README when am ready to land a job**.
@@ -10,7 +11,7 @@
 - *I love communicating with people of same interest.
 - ***My frontendmentor.io page (https://www.frontendmentor.io/profile/nelsonleone)
 
-## Tech Accretion
+## Tech Accretion⭐
 
 <div align="center">
         <img src="https://user-images.githubusercontent.com/95982650/217250559-0ec52c46-1a79-42ab-8d7f-4697e19cceab.png" width="70" />
