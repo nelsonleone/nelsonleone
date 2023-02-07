@@ -2,7 +2,7 @@
 
   <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
   
-## Some Things You Might Want To Know <img src="https://user-images.githubusercontent.com/95982650/217329750-e60e7638-49c5-4d4f-92a5-eb9ec83f60e5.png" width="20" />...
+## Some Things You Might Want To Know <img src="https://user-images.githubusercontent.com/95982650/217330060-490c1e5e-1dfc-4a92-bb37-a6998bb9ce0c.png" width="30" />...
 
 - *👀 I’m interested in ...Web development. Mainly Frontend Path*
 - *🌱 I’m currently learning a fullstack framework.
