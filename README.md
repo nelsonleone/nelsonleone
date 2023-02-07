@@ -6,7 +6,7 @@
 - *I love communicating with people of same interest*.
 - My frontendmentor.io page (https://www.frontendmentor.io/profile/nelsonleone)
 
-![Nelson](https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif)
+  ![Nelson](https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif)
 
 <div align="center">
      <div>
@@ -15,7 +15,7 @@
         <img src="https://user-images.githubusercontent.com/95982650/217254138-eeb64c65-0c5f-4f94-8671-0437d8d22f23.png" width="50"  />
      </div>
   
-    #
+  
      
       <div>
          <img src="https://user-images.githubusercontent.com/95982650/217256846-df4b3dee-ca47-4773-84fa-b2fb2310a2d1.png" width="70" />
@@ -23,7 +23,7 @@
          <img src="https://user-images.githubusercontent.com/95982650/217264455-b0221443-928f-4493-b050-f4d10405b8a9.png" width="50" />
       </div>
   
-    #
+   
 
      <div>
        <img src="https://user-images.githubusercontent.com/95982650/217260559-de75a0da-864e-4402-8c84-83ac1b9d7a4e.png" width="60" />
