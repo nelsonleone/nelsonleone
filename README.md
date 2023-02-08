@@ -11,6 +11,13 @@
  - ***📫 How to reach me ...(EMAIL: onelsonuchechukwu@gmail.com )***
  - *I love communicating with people of same interest.*
  - ***My frontendmentor.io page (https://www.frontendmentor.io/profile/nelsonleone)***
+
+## Socials
+  <div align="center">
+       <a href="https://twitter.com/nelsonleone9678">
+         <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
+       </a>
+  </div>
  
  
 
