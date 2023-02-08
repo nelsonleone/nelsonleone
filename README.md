@@ -2,7 +2,9 @@
 
 ## Open For Work 💼
 
-  <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500" align="center"/>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
+  </div>
   
 ## Some Things You Might Want To Know <img src="https://user-images.githubusercontent.com/95982650/217330060-490c1e5e-1dfc-4a92-bb37-a6998bb9ce0c.png" width="30" />...
 
@@ -13,7 +15,7 @@
  - ***My frontendmentor.io page (https://www.frontendmentor.io/profile/nelsonleone)***
 
 ## Socials
-  <div align="center">
+  <div>
        <a href="https://twitter.com/nelsonleone9678">
          <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
        </a>
