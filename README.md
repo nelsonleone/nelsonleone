@@ -1,6 +1,6 @@
 # 👋 Hi, I’m NELSON
 
-## Open For Work 💼💼 / LOOKING FOR HELP WITH OPEN SOURCE PROJECTS AND INTERNSHIP
+## Open For Work 💼💼 / *Looking for help in open source  projects and Internship*
 
   <div align="center">
     <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
