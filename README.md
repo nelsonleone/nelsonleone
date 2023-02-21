@@ -21,7 +21,8 @@
        <a href="https://twitter.com/nelsonleone9678">
          <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
        </a>
-       <a href="https://www.frontendmentor.io/profile/nelsonleone">
+  
+       <a href="https://www.frontendmentor.io/profile/nelsonleone" align="center">
          <img src="https://user-images.githubusercontent.com/95982650/220240791-c5b49ec5-da28-4b8e-b0f3-9a05e4076bb2.png" width="60" />
        </a>
   </div>
