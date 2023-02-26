@@ -27,7 +27,7 @@
  
  
 
-## Tech Accretion⭐
+## Tech Suite⭐
 
 <div align="center">
         <img src="https://user-images.githubusercontent.com/95982650/217250559-0ec52c46-1a79-42ab-8d7f-4697e19cceab.png" width="70" />
