@@ -1,7 +1,6 @@
 # 👋 Hi, I’m NELSON
 
 ## Open For Work 💼💼 /
-   *Looking for open source  projects and Internship*
 
   <div align="center">
     <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
@@ -11,7 +10,7 @@
 
  - *Am A Web Developer....Who is improving in more knowledge towards the Frontend Path*
  - *🏫 Am a CS student Of Federal University Of Technology(FUTO)*
- - *🌱 I’m currently learning a fullstack framework.*
+ - *🌱 I’m currently learning a Server-Side Programming.*
  - ***📫 How to reach me ...(EMAIL: onelsonuchechukwu@gmail.com )***
  - *I love communicating with people of same interest.*
 
