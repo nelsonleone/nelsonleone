@@ -1,6 +1,7 @@
 # 👋 Hi, I’m NELSON
 
 ## Open For Work 💼💼 /
+##*FRONTEND WEB DEVELOPER*
 
   <div align="center">
     <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
