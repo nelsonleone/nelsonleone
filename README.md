@@ -1,6 +1,6 @@
 # 👋 Hi, I’m NELSON
 
-## Open For Work 💼💼 /
+### Open For Work 💼💼 
 ## *FRONTEND WEB DEVELOPER*
 
   <div align="center">
