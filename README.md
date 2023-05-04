@@ -35,8 +35,8 @@
 
 <div align="left">
         <img src="https://user-images.githubusercontent.com/95982650/217250559-0ec52c46-1a79-42ab-8d7f-4697e19cceab.png" width="60" />
-        <img src="https://user-images.githubusercontent.com/95982650/236310511-1e5ee33f-d6fa-43db-a517-b6208abbc1a8.png" width="60"/>
-        <img src="https://user-images.githubusercontent.com/95982650/236310183-101e75b4-3356-4640-ab2d-61a523dd9ac4.png" width="60"/>
+        <img src="https://user-images.githubusercontent.com/95982650/236315823-2743f188-6a6c-4593-913b-817193a8dfbc.png" width="60"/>
+        <img src="https://user-images.githubusercontent.com/95982650/236316213-8f58a30f-362b-4a70-9bca-17ab17f41d10.png" width="60"/>
          <img src="https://user-images.githubusercontent.com/95982650/217256846-df4b3dee-ca47-4773-84fa-b2fb2310a2d1.png" width="60"/>
          <img src="https://user-images.githubusercontent.com/95982650/217259525-3aa1c059-cda9-4b54-ab8a-9adffc364e5d.png" width="60"/>
          <img src="https://user-images.githubusercontent.com/95982650/236309566-743f2e1f-cd92-4b01-b6f9-6b2b7cafa8d6.png" width="60"/>
