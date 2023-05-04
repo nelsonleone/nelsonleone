@@ -34,16 +34,27 @@
 ## Tech Suite⭐
 
 <div align="center">
-        <img src="https://user-images.githubusercontent.com/95982650/217250559-0ec52c46-1a79-42ab-8d7f-4697e19cceab.png" width="70" />
-        <img src="https://user-images.githubusercontent.com/95982650/217252667-0291b599-69f7-4cfd-8995-c3a058d3e4b7.png" width="40"/>
-        <img src="https://user-images.githubusercontent.com/95982650/217254138-eeb64c65-0c5f-4f94-8671-0437d8d22f23.png" width="40"/>
-         <img src="https://user-images.githubusercontent.com/95982650/217256846-df4b3dee-ca47-4773-84fa-b2fb2310a2d1.png" width="70"/>
+        <img src="https://user-images.githubusercontent.com/95982650/217250559-0ec52c46-1a79-42ab-8d7f-4697e19cceab.png" width="60" />
+        <img src="https://user-images.githubusercontent.com/95982650/236310511-1e5ee33f-d6fa-43db-a517-b6208abbc1a8.png" width="40"/>
+        <img src="https://user-images.githubusercontent.com/95982650/236310183-101e75b4-3356-4640-ab2d-61a523dd9ac4.png" width="40"/>
+         <img src="https://user-images.githubusercontent.com/95982650/217256846-df4b3dee-ca47-4773-84fa-b2fb2310a2d1.png" width="60"/>
          <img src="https://user-images.githubusercontent.com/95982650/217259525-3aa1c059-cda9-4b54-ab8a-9adffc364e5d.png" width="40"/>
-         <img src="https://user-images.githubusercontent.com/95982650/217334761-2ecc3967-156a-4d4f-8bf6-d9d870720851.png" width="40"/>
-       <img src="https://user-images.githubusercontent.com/95982650/217260559-de75a0da-864e-4402-8c84-83ac1b9d7a4e.png" width="90"/>
-       <img src="https://user-images.githubusercontent.com/95982650/217427639-f89e9963-a23d-4830-b8c0-ceb3a4bc830a.png" width="80"/>
+         <img src="https://user-images.githubusercontent.com/95982650/236309566-743f2e1f-cd92-4b01-b6f9-6b2b7cafa8d6.png" width="40"/>
+       <img src="https://user-images.githubusercontent.com/95982650/217260559-de75a0da-864e-4402-8c84-83ac1b9d7a4e.png" width="60"/>
+       <img src="https://user-images.githubusercontent.com/95982650/217427639-f89e9963-a23d-4830-b8c0-ceb3a4bc830a.png" width="60"/>
+</div>
+<div align="center">
+        <img src="https://user-images.githubusercontent.com/95982650/236311126-9257eba5-0b4d-41c6-a5f4-c92236e27822.png" width="60" />
+        <img src="https://user-images.githubusercontent.com/95982650/236311788-5e4588b7-98b8-4ca3-8098-e95eaab5976f.png" width="60" />
+        <img src="https://user-images.githubusercontent.com/95982650/236312154-7fa20925-5a73-4cb0-8db3-72fa5c52fb19.png" width="60" />
+        <img src="https://user-images.githubusercontent.com/95982650/236312391-cc1fbebe-2375-473b-9084-52ef63ddfaf9.png" width="60" />
+        <img src="https://user-images.githubusercontent.com/95982650/236312810-aad18fb6-c517-4b77-9512-b7fa03f90175.png" width="60" />
+        <img src="https://user-images.githubusercontent.com/95982650/236313860-01bc65f2-1081-47b7-acbe-aabf8a4c5edd.png" width="60" />
 </div>
 
+## Tech Stacks Models✨ 
+ - **Mern Stack**
+ - **Jam Stack**
 
 
 
