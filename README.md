@@ -47,10 +47,10 @@
 <div align="left">
         <img src="https://user-images.githubusercontent.com/95982650/236311126-9257eba5-0b4d-41c6-a5f4-c92236e27822.png" width="40" />
         <img src="https://user-images.githubusercontent.com/95982650/236311788-5e4588b7-98b8-4ca3-8098-e95eaab5976f.png" width="40" />
-        <img src="https://user-images.githubusercontent.com/95982650/236312154-7fa20925-5a73-4cb0-8db3-72fa5c52fb19.png" width="40" />
+        <img src="https://user-images.githubusercontent.com/95982650/236312154-7fa20925-5a73-4cb0-8db3-72fa5c52fb19.png" width="70" />
         <img src="https://user-images.githubusercontent.com/95982650/236312391-cc1fbebe-2375-473b-9084-52ef63ddfaf9.png" width="70" />
         <img src="https://user-images.githubusercontent.com/95982650/236312810-aad18fb6-c517-4b77-9512-b7fa03f90175.png" width="40" />
-        <img src="https://user-images.githubusercontent.com/95982650/236313860-01bc65f2-1081-47b7-acbe-aabf8a4c5edd.png" width="40" />
+        <img src="https://user-images.githubusercontent.com/95982650/236313860-01bc65f2-1081-47b7-acbe-aabf8a4c5edd.png" width="70" />
 </div>
 
 ## Tech Stacks Models✨ 
