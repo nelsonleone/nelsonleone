@@ -1,7 +1,7 @@
 # 👋 Hi, I’m NELSON
 
-### Open For Work 💼💼 
-## <div align="center">*FRONTEND WEB DEVELOPER*</div>
+## <div align="center">FRONTEND WEB DEVELOPER</div>
+#### <p align="center">**Open For Work 💼💼**<p> 
 
   <div align="center">
     <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://user-images.githubusercontent.com/95982650/236313860-01bc65f2-1081-47b7-acbe-aabf8a4c5edd.png" width="62" height="50" alt="cms  logo" />
+  <img src="https://user-images.githubusercontent.com/95982650/236313860-01bc65f2-1081-47b7-acbe-aabf8a4c5edd.png" width="62" height="38" alt="cms  logo" />
 </div>
 
 ###
