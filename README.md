@@ -9,20 +9,22 @@
   
 ## Some Things You Might Want To Know <img src="https://user-images.githubusercontent.com/95982650/217330060-490c1e5e-1dfc-4a92-bb37-a6998bb9ce0c.png" width="30" />...
 
- - *Am A Web Developer....Who is proficient in the Frontend Path*
- - *🏫 Am a CS student Of Federal University Of Technology(FUTO)*
- - *🌱 I’m currently learning Server-Side Programming.*
+ - *    Am A Web Developer....Who is proficient in the Frontend Path*
+ - *🏫  Am a CS student Of Federal University Of Technology(FUTO)*
+ - *🌱  I’m currently learning Server-Side Programming.*
  - ***📫 How to reach me ...(EMAIL: onelsonuchechukwu@gmail.com )***
- - *I love communicating with people of same interest.*
+ - *    I love communicating with people of same interest.*
 
 ## Socials
   <div>
        <a href="https://twitter.com/Nelson_f2e">
          <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
        </a>
+  ###
        <a href="https://www.frontendmentor.io/profile/nelsonleone" align="center">
          <img src="https://user-images.githubusercontent.com/95982650/220240791-c5b49ec5-da28-4b8e-b0f3-9a05e4076bb2.png" width="60" />
        </a>
+  ###
        <a href="linkedin.com/in/nelson-onuegbu-3ba269267" align="center">
          <img src="https://user-images.githubusercontent.com/95982650/223276864-0b616ae1-98ef-42b8-990b-30047594d3f1.png" width="60" />
        </a>
@@ -47,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://user-images.githubusercontent.com/95982650/236313860-01bc65f2-1081-47b7-acbe-aabf8a4c5edd.png" width="62" height="38" alt="cms  logo" />
+  <img src="https://user-images.githubusercontent.com/95982650/236313860-01bc65f2-1081-47b7-acbe-aabf8a4c5edd.png" width="62" height="35" alt="cms  logo" />
 </div>
 
 ###
@@ -56,15 +58,6 @@
 ## Tech Stacks Models✨ 
  - **Mern Stack**
  - **Jam Stack**
-
-###
- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?     username=nelsonleone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
 
 <!---
 nelsonleone/nelsonleone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
