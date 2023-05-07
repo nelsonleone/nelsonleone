@@ -1,7 +1,7 @@
 # 👋 Hi, I’m NELSON
 
 ### Open For Work 💼💼 
-## *FRONTEND WEB DEVELOPER*
+## <div align="center">*FRONTEND WEB DEVELOPER*</div>
 
   <div align="center">
     <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
@@ -34,28 +34,35 @@
 ## Tech Suite⭐
 
 <div align="left">
-        <img src="https://user-images.githubusercontent.com/95982650/217250559-0ec52c46-1a79-42ab-8d7f-4697e19cceab.png" width="40" />
-        <img src="https://user-images.githubusercontent.com/95982650/236315823-2743f188-6a6c-4593-913b-817193a8dfbc.png" width="40"/>
-        <img src="https://user-images.githubusercontent.com/95982650/236316213-8f58a30f-362b-4a70-9bca-17ab17f41d10.png" width="40"/>
-         <img src="https://user-images.githubusercontent.com/95982650/217256846-df4b3dee-ca47-4773-84fa-b2fb2310a2d1.png" width="40"/>
-         <img src="https://user-images.githubusercontent.com/95982650/217259525-3aa1c059-cda9-4b54-ab8a-9adffc364e5d.png" width="40"/>
-         <img src="https://user-images.githubusercontent.com/95982650/236309566-743f2e1f-cd92-4b01-b6f9-6b2b7cafa8d6.png" width="40"/>
-       <img src="https://user-images.githubusercontent.com/95982650/217260559-de75a0da-864e-4402-8c84-83ac1b9d7a4e.png" width="40"/>
-       <img src="https://user-images.githubusercontent.com/95982650/217427639-f89e9963-a23d-4830-b8c0-ceb3a4bc830a.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+  <img src="https://user-images.githubusercontent.com/95982650/236316213-8f58a30f-362b-4a70-9bca-17ab17f41d10.png" heigh"40" width="52" alt="styled-component logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://user-images.githubusercontent.com/95982650/236313860-01bc65f2-1081-47b7-acbe-aabf8a4c5edd.png" width="62" height="50" alt="cms  logo" />
 </div>
 
-<div align="left">
-        <img src="https://user-images.githubusercontent.com/95982650/236311126-9257eba5-0b4d-41c6-a5f4-c92236e27822.png" width="40" />
-        <img src="https://user-images.githubusercontent.com/95982650/236311788-5e4588b7-98b8-4ca3-8098-e95eaab5976f.png" width="40" />
-        <img src="https://user-images.githubusercontent.com/95982650/236312154-7fa20925-5a73-4cb0-8db3-72fa5c52fb19.png" width="70" />
-        <img src="https://user-images.githubusercontent.com/95982650/236312391-cc1fbebe-2375-473b-9084-52ef63ddfaf9.png" width="70" />
-        <img src="https://user-images.githubusercontent.com/95982650/236312810-aad18fb6-c517-4b77-9512-b7fa03f90175.png" width="40" />
-        <img src="https://user-images.githubusercontent.com/95982650/236313860-01bc65f2-1081-47b7-acbe-aabf8a4c5edd.png" width="70" />
-</div>
+###
+   
 
 ## Tech Stacks Models✨ 
  - **Mern Stack**
  - **Jam Stack**
+
+###
+ <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?     username=nelsonleone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 
