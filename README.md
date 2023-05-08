@@ -2,6 +2,8 @@
 
 ## <div align="center">FRONTEND WEB DEVELOPER</div>
 #### <p align="center">**Open For Work 💼💼**<p> 
+  
+###
 
   <div align="center">
     <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
@@ -12,8 +14,9 @@
  - *    Am A Web Developer....Who is proficient in the Frontend Path*
  - *🏫  Am a CS student Of Federal University Of Technology(FUTO)*
  - *🌱  I’m currently learning Server-Side Programming.*
- - ***📫 How to reach me ...(EMAIL: onelsonuchechukwu@gmail.com )***
- - *    I love communicating with people of same interest.*
+ - **📫 How to reach me ...(EMAIL: onelsonuchechukwu@gmail.com )**
+ -    **I love communicating with people of same interest.**
+ - ***QUOTE (It's not about the amount of things in the tool belt, it's about how good you are with them)***
 
 ## Socials
   <div>
@@ -29,9 +32,15 @@
          <img src="https://user-images.githubusercontent.com/95982650/223276864-0b616ae1-98ef-42b8-990b-30047594d3f1.png" width="60" />
        </a>
   </div>
+  
+  ###
+  
+  <div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nelsonleone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=ocean_dark&hide_border=false&order=2&custom_title=Top Used Languages" height="159" alt="languages graph"  />
+</div>
 
- 
- 
+###
+
 
 ## Tech Suite⭐
 
@@ -56,7 +65,7 @@
    
 
 ## Tech Stacks Models✨ 
- - **Mern Stack**
+ - **Mern Stack**            
  - **Jam Stack**
 
 <!---
