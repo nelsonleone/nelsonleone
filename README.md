@@ -14,7 +14,7 @@
  - **Am A Web Developer....Who is proficient in the Frontend Path**
  - **🏫  Am a CS student Of Federal University Of Technology(FUTO)**
  - ***🌱  I’m currently learning Server-Side Programming.***
- - **📫 How to reach me ...(EMAIL: onelsonuchechukwu@gmail.com )**
+ - **📫 How to reach me ...(EMAIL: onelsonuchechukwu@gmail.com  | leonelson38@gmail.com )**
  -    **I love communicating with people of same interest.**
  - ***QUOTE (It's not about the amount of things in the tool belt, it's about how good you are with them)***
 
