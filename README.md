@@ -37,7 +37,7 @@
   
   <div align="right">
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nelsonleone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=ocean_dark&hide_border=false&order=2&custom_title=Top Used Languages" alt="languages graph" height="159" />
+<img src="https://img.shields.io/github/languages/top/nelsonleone/your-repo-name?color=blue&label=Top%20Languages&style=flat" alt="languages graph" height="20" />
 </div>
 
 </div>
