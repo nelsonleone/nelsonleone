@@ -37,7 +37,7 @@
   
   <div align="right">
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonleone&layout=compact&theme=ocean_dark" alt="languages graph" height="20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonleone&layout=compact&theme=ocean_dark" alt="languages graph" height="100" width="100" />
 </div>
 
 </div>
