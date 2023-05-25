@@ -13,21 +13,24 @@
 
  - **Am A Web Developer....Who is proficient in the Frontend Path**
  - **🏫  Am a CS student Of Federal University Of Technology(FUTO)**
- - ***🌱  I’m currently learning Server-Side Programming.***
+ - **🌱  I’m currently learning Server-Side Programming.**
  - **📫 How to reach me ...(EMAIL: onelsonuchechukwu@gmail.com  | leonelson38@gmail.com )**
  -    **I love communicating with people of same interest.**
+
  - ***QUOTE (It's not about the amount of things in the tool belt, it's about how good you are with them)***
 
+###
+
 ## Socials
-  <div>
+  <div align="center">
        <a href="https://twitter.com/Nelson_f2e">
          <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
        </a>
-       -
+       __
        <a href="https://www.frontendmentor.io/profile/nelsonleone" align="center">
          <img src="https://user-images.githubusercontent.com/95982650/220240791-c5b49ec5-da28-4b8e-b0f3-9a05e4076bb2.png" width="60" />
        </a>
-       -
+        __
        <a href="linkedin.com/in/nelson-onuegbu-3ba269267" align="center">
          <img src="https://user-images.githubusercontent.com/95982650/223276864-0b616ae1-98ef-42b8-990b-30047594d3f1.png" width="60" />
        </a>
@@ -37,7 +40,7 @@
   
   <div align="right">
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonleone&layout=compact&theme=ocean_dark&langs_count=8" alt="languages graph" height="400" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonleone&layout=compact&theme=github_dark&langs_count=8" alt="languages graph" height="380" width="400" />
 </div>
 
 </div>
