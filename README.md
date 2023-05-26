@@ -1,6 +1,9 @@
 # 👋 Hi, I’m NELSON
 
-## <div align="center">FRONTEND WEB DEVELOPER</div>
+## <div align="left">FRONTEND WEB DEVELOPER</div>
+
+###
+
 #### <p align="center">**Open For Work 💼💼**<p> 
   
 ###
@@ -22,23 +25,22 @@
 ###
 
 ## Socials
-  <div align="center">
-       <a href="https://twitter.com/Nelson_f2e">
-         <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
-       </a>
-       __
-       <a href="https://www.frontendmentor.io/profile/nelsonleone" align="center">
-         <img src="https://user-images.githubusercontent.com/95982650/220240791-c5b49ec5-da28-4b8e-b0f3-9a05e4076bb2.png" width="60" />
-       </a>
-        __
-       <a href="linkedin.com/in/nelson-onuegbu-3ba269267" align="center">
-         <img src="https://user-images.githubusercontent.com/95982650/223276864-0b616ae1-98ef-42b8-990b-30047594d3f1.png" width="60" />
-       </a>
-  </div>
+<div align="center">
+  <a href="https://twitter.com/Nelson_f2e">
+    <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
+  </a><br>
+  <a href="https://www.frontendmentor.io/profile/nelsonleone" align="center">
+    <img src="https://user-images.githubusercontent.com/95982650/220240791-c5b49ec5-da28-4b8e-b0f3-9a05e4076bb2.png" width="60" />
+  </a><br>
+  <a href="linkedin.com/in/nelson-onuegbu-3ba269267" align="center">
+    <img src="https://user-images.githubusercontent.com/95982650/223276864-0b616ae1-98ef-42b8-990b-30047594d3f1.png" width="60" />
+  </a>
+</div>
+
   
   ###
   
-  <div align="right">
+  <div align="left">
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonleone&layout=compact&theme=github_dark&langs_count=8" alt="languages graph" height="380" width="400" />
 </div>
