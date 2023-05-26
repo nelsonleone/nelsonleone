@@ -28,14 +28,15 @@
 <div align="center">
   <a href="https://twitter.com/Nelson_f2e">
     <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
-  </a><br>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.frontendmentor.io/profile/nelsonleone" align="center">
     <img src="https://user-images.githubusercontent.com/95982650/220240791-c5b49ec5-da28-4b8e-b0f3-9a05e4076bb2.png" width="60" />
-  </a><br>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="linkedin.com/in/nelson-onuegbu-3ba269267" align="center">
     <img src="https://user-images.githubusercontent.com/95982650/223276864-0b616ae1-98ef-42b8-990b-30047594d3f1.png" width="60" />
   </a>
 </div>
+
 
   
   ###
