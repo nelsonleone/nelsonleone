@@ -80,7 +80,12 @@
  - TS
  - React _ NextJS
  - Svelte _ SvelteKit
- - JAM
+ - J.A.M
+ - Modern CSS Concepts
+ - Styled-Components
+ - TailwindCSS
+ - NOSQL Databases
+ - ETC
 
 <!---
 nelsonleone/nelsonleone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
