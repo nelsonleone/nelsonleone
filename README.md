@@ -67,10 +67,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://github.com/nelsonleone/nelsonleone/assets/95982650/59dbcf5d-7f66-490c-87a6-280fe085a099" height="40" width="52" alt="git logo"  />
   <img src="https://user-images.githubusercontent.com/95982650/236313860-01bc65f2-1081-47b7-acbe-aabf8a4c5edd.png" width="62" height="30" alt="cms  logo" />
   <img src="https://github.com/nelsonleone/nelsonleone/assets/95982650/e7708a18-a5ac-4c4e-94a7-8096af9c4344" width="58" height="58" alt="cms  logo" />
   <img src="https://github.com/nelsonleone/nelsonleone/assets/95982650/6d36d4f0-6885-4e0d-9ee8-599d453e40f0" width="38" height="50" alt="cms  logo" />
 </div>
+
 
 ###
    
