@@ -68,14 +68,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://user-images.githubusercontent.com/95982650/236313860-01bc65f2-1081-47b7-acbe-aabf8a4c5edd.png" width="62" height="30" alt="cms  logo" />
+  <img src="https://github.com/nelsonleone/nelsonleone/assets/95982650/6d36d4f0-6885-4e0d-9ee8-599d453e40f0" width="62" height="30" alt="cms  logo" />
 </div>
 
 ###
    
 
 ## Tech Stacks Models✨ 
- - **Mern Stack**            
- - **Jam Stack**
+ - JS
+ - TS
+ - React _ NextJS
+ - Svelte _ SvelteKit
+ - JAM
 
 <!---
 nelsonleone/nelsonleone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
