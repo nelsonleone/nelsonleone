@@ -1,4 +1,4 @@
-![framer-motion](https://github.com/nelsonleone/nelsonleone/assets/95982650/22a41d38-ecd0-42b7-84e9-fdafbdb3eaa8)# 👋 Hi, I’m NELSON
+# 👋 Hi, I’m NELSON
 
 ## <div align="left">FRONTEND WEB DEVELOPER</div>
 
