@@ -44,7 +44,7 @@
   <div align="left">
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonleone&layout=compact&theme=github_dark&langs_count=8" alt="languages graph" height="380" width="400" />
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonleone&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=nelsonleone&show_icons=true&theme=dark#gh-dark-mode-only" alt="languages graph" height="380" width="400" />
 </div>
 
 </div>
