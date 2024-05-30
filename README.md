@@ -43,7 +43,7 @@
   
   <div align="left">
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonleone&layout=compact&theme=github_dark&langs_count=8" alt="languages graph" height="380" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonleone&layout=compact&theme=github_dark&langs_count=8" alt="languages graph" height="380" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=nelsonleone&show_icons=true&theme=dark#gh-dark-mode-only" alt="languages graph" height="380" width="400" />
 </div>
 
@@ -52,11 +52,20 @@
 ###
 
 
-### Projects💡
-Some awesome side projects i have built:
-*  <a href="">
-    <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## Projects💡
+$\color{Aquamarine}{Some\ awesome\ side\ projects\ i\ have\ have:}$
+> ### GiG-Logistics-C
+> ![Source Code](https://github.com/nelsonleone/gig-logistics)
+> This is a full logistics websites built with NextJS-14 and some other professional tools.
+
+> ### ContactSphere
+> ![Source Code](https://github.com/nelsonleone/ContactSphere)
+> Contactsphere is a User-Friendly and Feature-Rich Contacts Management Application where users can create and manage contacts and grouping with tags. User data is 100% safe, saved in the cloud and they are strictly accessible to the user.
+
+> ### Audiophile Ecommerce Website
+> ![Source Code](https://github.com/nelsonleone/Audiophile-ECommerce-Website)
+> Audiophile is an ecommerce website for audio gadgets and products where users can buy audio items of their choice.
+
 
 ## Tech Suite⭐
 
