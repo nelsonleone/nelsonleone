@@ -28,10 +28,10 @@
 <p align="center">
   <a href="https://twitter.com/Nelsonf2e">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Nelsonf2e">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://https://www.instagram.com/nelson_f2e">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
@@ -68,15 +68,15 @@ $\color{Aquamarine}{Some\ awesome\ side\ projects\ i\ have\ built:}$
 
 
 ## Tech Suite⭐
-> ###Languages: <img src="https://skillicons.dev/icons?i=js" />###
+> Languages:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" />
 
-> Frontend Frameworks and tools: <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,ts,express,nodejs" />
+> Frontend Frameworks and tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,ts,express,nodejs" />
 
-> Styling: <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,css,bootstrap,sass" />
+> Styling:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,css,bootstrap,sass" />
 
-> Database: <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" />
+> Database:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" />
 
-> Some other tools: <img src="https://skillicons.dev/icons?i=git,github,redux,canva,jest" />
+> Some other tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github,redux,canva,jest" />
 <!---
 nelsonleone/nelsonleone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
