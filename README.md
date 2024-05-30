@@ -14,13 +14,13 @@
   
 ## Some Things You Might Want To Know <img src="https://user-images.githubusercontent.com/95982650/217330060-490c1e5e-1dfc-4a92-bb37-a6998bb9ce0c.png" width="30" />...
 
- > **I am a Web Developer proficient in the Frontend Path**
- > **I am a CS student Of Federal University Of Technology(FUTO)**
- > **I am currently learning Server-Side Programming.**
- > **EMAIL: onelsonuchechukwu@gmail.com  | leonelson38@gmail.com**
- > **I love communicating with people of same interest.**
+ - **I am a Web Developer proficient in the Frontend Path**
+ - **I am a CS student Of Federal University Of Technology(FUTO)**
+ - **I am currently learning Server-Side Programming.**
+ - **EMAIL: onelsonuchechukwu@gmail.com  | leonelson38@gmail.com**
+ - **I love communicating with people of same interest.**
 
-  ***QUOTE (It's not about the amount of things in the tool belt, it's about how good you are with them)***
+  ***$\color{Thistle}{QUOTE:\ It's\ not\ about\ the\ amount\ of\ things\ in\ the\ tool\ belt,\ but\ how\ good\ you're\ with\ them.}$***
 
 ###
 
@@ -55,15 +55,15 @@
 ## Projects💡
 $\color{Aquamarine}{Some\ awesome\ side\ projects\ i\ have\ have:}$
 > ### GiG-Logistics-C
-> ![Source Code](https://github.com/nelsonleone/gig-logistics)
+> <a href="https://github.com/nelsonleone/gig-logistics">Source Code</a>
 > This is a full logistics websites built with NextJS-14 and some other professional tools.
 
 > ### ContactSphere
-> ![Source Code](https://github.com/nelsonleone/ContactSphere)
+> <a href="https://https://github.com/nelsonleone/ContactSphere">Source Code</a>
 > Contactsphere is a User-Friendly and Feature-Rich Contacts Management Application where users can create and manage contacts and grouping with tags. User data is 100% safe, saved in the cloud and they are strictly accessible to the user.
 
 > ### Audiophile Ecommerce Website
-> ![Source Code](https://github.com/nelsonleone/Audiophile-ECommerce-Website)
+> <a href="https://github.com/nelsonleone/Audiophile-ECommerce-Website">Source Code</a>
 > Audiophile is an ecommerce website for audio gadgets and products where users can buy audio items of their choice.
 
 
