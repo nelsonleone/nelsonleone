@@ -17,7 +17,7 @@
  - **I am a Web Developer proficient in the Frontend Path**
  - **I am a CS student Of Federal University Of Technology(FUTO)**
  - **I am currently learning Server-Side Programming.**
- - **EMAIL: onelsonuchechukwu@gmail.com  | leonelson38@gmail.com **
+ - **EMAIL: onelsonuchechukwu@gmail.com  | leonelson38@gmail.com**
  - **I love communicating with people of same interest.**
 
  - ***QUOTE (It's not about the amount of things in the tool belt, it's about how good you are with them)***
@@ -26,7 +26,7 @@
 
 ## Socials
 <div align="center">
-  <a href="https://twitter.com/Nelson_f2e">
+  <a href="https://twitter.com/Nelsonf2e">
     <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.frontendmentor.io/profile/nelsonleone" align="center">
@@ -43,13 +43,20 @@
   
   <div align="left">
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonleone&layout=compact&theme=github_dark&langs_count=8" alt="languages graph" height="380" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonleone&layout=compact&theme=github_dark&langs_count=8" alt="languages graph" height="380" width="400" />
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonleone&show_icons=true)
 </div>
 
 </div>
 
 ###
 
+
+### Projects💡
+Some awesome side projects i have built:
+*  <a href="">
+    <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Tech Suite⭐
 
