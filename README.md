@@ -25,17 +25,17 @@
 ###
 
 ## Socials🍷
-<div align="center">
+<p align="center">
   <a href="https://twitter.com/Nelsonf2e">
-    <img src="https://user-images.githubusercontent.com/95982650/217645051-8dadef9d-edd7-4384-97b8-fab6f0b904d7.png" width="60" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.frontendmentor.io/profile/nelsonleone" align="center">
-    <img src="https://user-images.githubusercontent.com/95982650/220240791-c5b49ec5-da28-4b8e-b0f3-9a05e4076bb2.png" width="60" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="linkedin.com/in/nelson-onuegbu-3ba269267" align="center">
-    <img src="https://user-images.githubusercontent.com/95982650/223276864-0b616ae1-98ef-42b8-990b-30047594d3f1.png" width="60" />
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-</div>
+  <a href="https://twitter.com/Nelsonf2e">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://https://www.instagram.com/nelson_f2e">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 
   
@@ -70,13 +70,13 @@ $\color{Aquamarine}{Some\ awesome\ side\ projects\ i\ have\ built:}$
 ## Tech Suite⭐
 > ###Languages: <img src="https://skillicons.dev/icons?i=js" />###
 
-> ###Frontend Frameworks and tools: <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,ts,express,nodejs" />###
+> Frontend Frameworks and tools: <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,ts,express,nodejs" />
 
-> ###Styling: <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,css,bootstrap,sass" />###
+> Styling: <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,css,bootstrap,sass" />
 
-> ###Database: <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" />###
+> Database: <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" />
 
-> ###Some other tools: <img src="https://skillicons.dev/icons?i=git,github,redux,canva,jest" />###
+> Some other tools: <img src="https://skillicons.dev/icons?i=git,github,redux,canva,jest" />
 <!---
 nelsonleone/nelsonleone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
