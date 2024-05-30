@@ -20,7 +20,7 @@
  - **EMAIL: onelsonuchechukwu@gmail.com  | leonelson38@gmail.com**
  - **I love communicating with people of same interest.**
 
-  ***$\color{Thistle}{QUOTE:\ It's\ not\ about\ the\ amount\ of\ things\ in\ the\ tool\ belt,\ but\ how\ good\ you're\ with\ them.}$***
+  $\color{Thistle}{QUOTE:\ It's\ not\ about\ the\ amount\ of\ things\ in\ the\ tool\ belt,\ but\ how\ good\ you're\ with\ them.}$
 
 ###
 
@@ -53,7 +53,7 @@
 
 
 ## Projects💡
-$\color{Aquamarine}{Some\ awesome\ side\ projects\ i\ have\ have:}$
+$\color{Aquamarine}{Some\ awesome\ side\ projects\ i\ have\ built:}$
 > ### GiG-Logistics-C
 > <a href="https://github.com/nelsonleone/gig-logistics">Source Code</a>
 > This is a full logistics websites built with NextJS-14 and some other professional tools.
