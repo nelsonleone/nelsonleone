@@ -68,7 +68,7 @@ $\color{Aquamarine}{Some\ awesome\ side\ projects\ i\ have\ built:}$
 
 
 ## Tech Suite⭐
-> Languages:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" />
+> Languages:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js,py" />
 
 > Frontend Frameworks and tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,ts,express,nodejs" />
 
