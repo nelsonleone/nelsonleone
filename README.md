@@ -74,7 +74,7 @@ $\color{Aquamarine}{Some\ awesome\ side\ projects\ i\ have\ built:}$
 
 > Styling:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,css,bootstrap,sass" />
 
-> Database:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" />
+> Database:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,mysql" />
 
 > Some other tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github,redux,canva,jest" />
 <!---
