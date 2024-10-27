@@ -14,7 +14,7 @@
   
 ## Some Things You Might Want To Know <img src="https://user-images.githubusercontent.com/95982650/217330060-490c1e5e-1dfc-4a92-bb37-a6998bb9ce0c.png" width="30" />...
 
- - **I am a Web Developer proficient in the Frontend Path**
+ - **I am a Web Developer more proficient in the Frontend Path**
  - **I am a CS student Of Federal University Of Technology(FUTO)**
  - **I am currently learning Server-Side Programming.**
  - **EMAIL: onelsonuchechukwu@gmail.com  | leonelson38@gmail.com**
