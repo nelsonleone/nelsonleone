@@ -1,6 +1,6 @@
 # 👋 Hi, I’m NELSON
 
-## <div align="left">FRONTEND WEB DEVELOPER</div>
+## <div align="left">FULLSTACK WEB DEVELOPER</div>
 
 ###
 
