@@ -58,9 +58,9 @@ $\color{Aquamarine}{Some\ awesome\ side\ projects\ i\ have\ built:}$
 > <a href="https://github.com/nelsonleone/gig-logistics">Source Code</a>
 > This is a full logistics websites built with NextJS-14 and some other professional tools.
 
-> ### ContactSphere
-> <a href="https://https://github.com/nelsonleone/ContactSphere">Source Code</a>
-> Contactsphere is a User-Friendly and Feature-Rich Contacts Management Application where users can create and manage contacts and grouping with tags. User data is 100% safe, saved in the cloud and they are strictly accessible to the user.
+> ### Schedulo
+> <a href="https://github.com/nelsonleone/Schedulo">Source Code</a>
+> Schedulo is a user-friendly task management application designed to help individuals and teams organize, prioritize, and track their tasks effectively
 
 > ### Bill-Blitz
 > <a href="https://github.com/nelsonleone/bill-blitz/">Source Code</a>
