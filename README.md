@@ -11,10 +11,7 @@
   <div align="center">
     <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
   </div>
-  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/95982650/217330060-490c1e5e-1dfc-4a92-bb37-a6998bb9ce0c.png" width="120" />
-</p>
+
 
 ---
 
@@ -31,7 +28,8 @@
 
 ## 💼 Work Experience  
 
-### **1. [Theraswift]**(https://github.com/user-attachments/assets/7eaea65d-b43e-4c5d-90db-3ad985ee3baa)
+### **1. Theraswift**, 
+<img src="https://github.com/user-attachments/assets/7eaea65d-b43e-4c5d-90db-3ad985ee3baa" width="300" />
 
 
 > 🏢 **Frontend Developer**  
@@ -46,7 +44,8 @@
 
 ---
 
-### **2. [Saviez Tech](https://github.com/user-attachments/assets/ea07cd72-cee0-4cd6-9a5e-bda12462e2e3)
+### **2. Saviez Tech
+<img src="https://github.com/user-attachments/assets/ea07cd72-cee0-4cd6-9a5e-bda12462e2e3" width="300" />
 **
 > 🏢 **Frontend Developer**  
 📅 **[Dec, 2024] – To Date**  
