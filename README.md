@@ -44,7 +44,7 @@
 
 ---
 
-### **2. Saviez Tech
+### **2. Saviez Tech**
 <img src="https://github.com/user-attachments/assets/ea07cd72-cee0-4cd6-9a5e-bda12462e2e3" width="300" />
 
  🏢 **Frontend Developer**  
