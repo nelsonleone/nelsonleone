@@ -12,13 +12,51 @@
     <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
   </div>
   
-## Some Things You Might Want To Know <img src="https://user-images.githubusercontent.com/95982650/217330060-490c1e5e-1dfc-4a92-bb37-a6998bb9ce0c.png" width="30" />...
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95982650/217330060-490c1e5e-1dfc-4a92-bb37-a6998bb9ce0c.png" width="120" />
+</p>
 
- - **I am a Web Developer more proficient in the Frontend Path**
- - **I am a CS student Of Federal University Of Technology(FUTO)**
- - **I am currently learning Server-Side Programming.**
- - **EMAIL: onelsonuchechukwu@gmail.com  | leonelson38@gmail.com**
- - **I love communicating with people of same interest.**
+---
+
+## 🚀 About Me
+
+- 🎯 **Frontend-Focused Web Developer** with 2+ years of experience building modern, scalable, and user-friendly applications.
+- 🎓 **Computer Science Student** at the **Federal University of Technology, Owerri (FUTO)**.
+- 🌍 **Exploring Full-Stack & Cloud Computing** with a growing interest in **Backend Development** & **Infrastructure**.
+- 🛠️ **Tech Stack:** TypeScript, React, Next.js, SvelteKit, Node.js, Express.js, MongoDB, PostgreSQL, Firebase.
+- ✉️ **Email:** [onelsonuchechukwu@gmail.com](mailto:onelsonuchechukwu@gmail.com) | [leonelson38@gmail.com](mailto:leonelson38@gmail.com).
+- 💬 Passionate about **collaborating** with like-minded people, discussing **tech innovations**, and contributing to **open-source** projects.
+
+---
+
+## 💼 Work Experience  
+
+### **1. [Theraswift]**(https://github.com/user-attachments/assets/7eaea65d-b43e-4c5d-90db-3ad985ee3baa)
+
+
+> 🏢 **Frontend Developer**  
+📅 **[May, 2024] – Present**  
+🌍 Remote | Full-time  
+
+- Built and maintained a **healthcare web application** using **Next.js** and other modern web technologies.  
+- Integrated **secure and efficient API endpoints** for seamless data management.  
+- Enhanced **UI/UX design** to improve **user experience, accessibility, and performance**.   
+
+🔗 **Company Website:** [https://theraswift.co](https://theraswift.co)  
+
+---
+
+### **2. [Saviez Tech](https://github.com/user-attachments/assets/ea07cd72-cee0-4cd6-9a5e-bda12462e2e3)
+**
+> 🏢 **Frontend Developer**  
+📅 **[Dec, 2024] – To Date**  
+🌍 Hybrid  
+
+- Assisted in designing and developing web applications with **Next.js & TailwindCSS**.  
+- Worked with **RESTful APIs** and **GraphQL** to fetch and display real-time data.  
+- Participated in **code reviews**, debugging, and performance optimization.  
+
+🔗 **Company Website:** [https://www.savieztech.com](https://www.savieztech.com)
 
   $\color{Thistle}{QUOTE:\ It's\ not\ about\ the\ amount\ of\ things\ in\ the\ tool\ belt,\ but\ how\ good\ you're\ with\ them.}$
 
