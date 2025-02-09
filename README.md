@@ -28,7 +28,7 @@
 
 ## 💼 Work Experience  
 
-### **1. Theraswift**, 
+### **1. Theraswift**
 <img src="https://github.com/user-attachments/assets/7eaea65d-b43e-4c5d-90db-3ad985ee3baa" width="300" />
 
 
@@ -48,7 +48,7 @@
 <img src="https://github.com/user-attachments/assets/ea07cd72-cee0-4cd6-9a5e-bda12462e2e3" width="300" />
 
  🏢 **Frontend Developer**  
-📅 **[Dec, 2024] – To Date**  
+📅 **[Dec, 2024] – Present**  
 🌍 Hybrid  
 
 - Assisted in designing and developing web applications with **Next.js & TailwindCSS**.  
