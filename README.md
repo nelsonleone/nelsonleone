@@ -93,12 +93,12 @@
 $\color{Aquamarine}{Some\ awesome\ side\ projects\ i\ have\ built:}$
 > ### GiG-Logistics-C
 > <a href="https://github.com/nelsonleone/gig-logistics">Source Code</a>
+> <a href="https://gig-logistics-nelsonleone.vercel.app/">Preview</a>
 > This is a full logistics websites built with NextJS-14 and some other professional tools.
 
-> ### Schedulo
-> <a href="https://github.com/nelsonleone/Schedulo">Source Code</a>
-> Schedulo is a user-friendly task management application designed to help individuals and teams organize, prioritize, and track their tasks effectively
-
+> ### CargoNest
+> <a href="https://cargonest.vercel.app/">Preview</a>
+> CargoNest is a shipping and logistics platform that offers seamless cargo transportation, secure storage services, and efficient delivery solutions for businesses and individuals. 🚛📦
 > ### Bill-Blitz
 > <a href="https://github.com/nelsonleone/bill-blitz/">Source Code</a>
 > User Friendly And Highly Interactive Billing Application. Streamline Your Billing, Maximize Your Time
