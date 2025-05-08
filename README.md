@@ -20,7 +20,7 @@
 - 🎯 **Frontend-Focused Web Developer** with 3+ years of experience building modern, scalable, and user-friendly applications.
 - 🎓 **Computer Science Student** at the **Federal University of Technology, Owerri (FUTO)**.
 - 🌍 **Exploring Full-Stack & Cloud Computing** with a growing interest in **Frontend Development** & **Infrastructure**.
-- 🛠️ **Tech Stack:** TypeScript, React, Next.js, SvelteKit, Node.js, Express.js, MongoDB, PostgreSQL, Firebase.
+- 🛠️ **Tech Stack:** TypeScript, React, Next.js, SvelteKit, Node.js, Express.js, MongoDB, PostgreSQL, Firebase and More.
 - ✉️ **Email:** [onelsonuchechukwu@gmail.com](mailto:onelsonuchechukwu@gmail.com) | [leonelson38@gmail.com](mailto:leonelson38@gmail.com).
 - 💬 Passionate about **collaborating** with like-minded people, discussing **tech innovations**, and contributing to **open-source** projects.
 
