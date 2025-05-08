@@ -61,7 +61,7 @@ A comprehensive platform for healthcare professionals to manage patient care, pr
 🌟 **Radiant Repose**  
 Nigeria's premier destination for holistic wellness, luxury self-care, and pharmaceutical services—offering spa bookings, pharmacy consultations, and luxury product orders all in one elegant platform.  
 🔧 **Tech Stack:** Next.js, TailwindCSS  
-💼 **Contributions:** Built the POS system and main website with help from my team member.
+💼 **Contributions:** Built the main website (with @treasure56) and the POS system.
 🔗 **Live Demo:** [radiantrepose.com](https://www.radiantrepose.com)
 
   $\color{Thistle}{QUOTE:\ It's\ not\ about\ the\ amount\ of\ things\ in\ the\ tool\ belt,\ but\ how\ good\ you're\ with\ them.}$
