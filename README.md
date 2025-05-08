@@ -31,38 +31,37 @@
 ### **1. Theraswift**
 <img src="https://github.com/user-attachments/assets/7eaea65d-b43e-4c5d-90db-3ad985ee3baa" width="300" />
 
-### **1. TheraSwift**
-<img src="https://github.com/user-attachments/assets/ea07cd72-cee0-4cd6-9a5e-bda12462e2e3" width="300" />
-> 🏢 **Frontend Developer**  
+
+> 🏢 **Lead Frontend Developer**  
 📅 **[May, 2024] – Present**  
 🌍 Remote | Full-time  
+
 - Built and maintained a **healthcare web application** using **Next.js** and other modern web technologies.  
 - Integrated **secure and efficient API endpoints** for seamless data management.  
 - Enhanced **UI/UX design** to improve **user experience, accessibility, and performance**.   
-🔗 **Company Website:** [https://theraswift.co](https://theraswift.co)  
+
+🔗 **Company Website:** [https://theraswift.co](https://theraswift.co) 
 
 #### Projects
 🌟 **Providers App**  
 A comprehensive platform for healthcare professionals to manage patient care, prescriptions, and sign-ups.  
-🔧 **Tech Stack:** Next.js, TailwindCSS, REST APIs  
 🔗 **Live Demo:** [providers.theraswift.co](https://providers.theraswift.co)
 
 ---
 ### **2. Saviez Tech**
 <img src="https://github.com/user-attachments/assets/ea07cd72-cee0-4cd6-9a5e-bda12462e2e3" width="300" />
- 🏢 **Frontend Developer**  
+
+ 🏢 **Lead Frontend Developer**  
 📅 **[Dec, 2024] – Present**  
 🌍 Hybrid  
-- Assisted in designing and developing web applications with **Next.js & TailwindCSS**.  
-- Worked with **RESTful APIs** and **GraphQL** to fetch and display real-time data.  
-- Participated in **code reviews**, debugging, and performance optimization.  
+
 🔗 **Company Website:** [https://www.savieztech.com](https://www.savieztech.com)
 
 #### Projects
 🌟 **Radiant Repose**  
 Nigeria's premier destination for holistic wellness, luxury self-care, and pharmaceutical services—offering spa bookings, pharmacy consultations, and luxury product orders all in one elegant platform.  
 🔧 **Tech Stack:** Next.js, TailwindCSS  
-💼 **Contributions:** Built the POS system and main website  
+💼 **Contributions:** Built the POS system and main website with help from my team member.
 🔗 **Live Demo:** [radiantrepose.com](https://www.radiantrepose.com)
 
   $\color{Thistle}{QUOTE:\ It's\ not\ about\ the\ amount\ of\ things\ in\ the\ tool\ belt,\ but\ how\ good\ you're\ with\ them.}$
