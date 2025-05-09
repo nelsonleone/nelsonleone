@@ -51,7 +51,7 @@ A comprehensive platform for healthcare professionals to manage patient care, pr
 ### **2. Saviez Tech**
 <img src="https://github.com/user-attachments/assets/ea07cd72-cee0-4cd6-9a5e-bda12462e2e3" width="300" />
 
- 🏢 **Lead Frontend Developer**  
+ 🏢 **CTO And Lead Frontend Developer**  
 📅 **[Dec, 2024] – Present**  
 🌍 Hybrid  
 
