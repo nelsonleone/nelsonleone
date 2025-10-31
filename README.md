@@ -213,13 +213,13 @@ User-friendly and highly interactive billing application designed to streamline 
 
 Computer science CIT306 group project. I personally handled the design, frontend and backend development of this simple department website.
 The features of the website includes:
-# FOR ADMIN
+#### FOR ADMIN
 
 - Results, Timetables (Exam, Lecture), Announcements and Events Upload
 - Ability to specify semester and session
 - Delete functionality and storage cascading
   
-# PUBLIC
+#### PUBLIC
 
 - View, Sort and view current data
 - Highly responsive and accessible
