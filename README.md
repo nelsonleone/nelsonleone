@@ -6,7 +6,7 @@
 
 [![Open for Work](https://img.shields.io/badge/Status-Open%20For%20Work-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:onelsonuchechukwu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/nelsonleone)
-[![Download CV](https://img.shields.io/badge/Download-CV-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](YOUR_CV_LINK_HERE)
+[![Download CV](https://img.shields.io/badge/Download-CV-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/user-attachments/files/23274571/Resume.pdf)
 
 <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
 
@@ -38,9 +38,13 @@ Leading frontend development for a comprehensive healthcare platform, delivering
 
 **Key Achievements:**
 - Architected and developed the main healthcare web application using **Next.js** and modern frontend technologies
-- Integrated secure API endpoints ensuring HIPAA-compliant data management
+- Sign up and complete multi-step verification (license, credentials, identity)
+- Prescribe medications with real-time drug interaction checks and e-signatures
+- Chat securely with patients via encrypted, HIPAA-compliant messaging
+- View real-time patient updates — vitals, lab results, appointment history
+- Manage shared access for multiple doctors under the same provider group (clinics, hospitals, or networks)
 - Enhanced UI/UX design resulting in improved user engagement and accessibility scores
-- Implemented performance optimizations reducing page load times by 40%
+- I rebuilt legacy UI components into a clean, intuitive interface using React + TypeScript, improved performance by 70%, and ensured full mobile responsiveness for on-call doctors.
 
 🔗 **Company:** [theraswift.co](https://theraswift.co)
 
@@ -59,7 +63,7 @@ A comprehensive platform enabling healthcare professionals to manage patient car
 🔗 [Live Demo](https://providers.theraswift.co)
 
 <!-- Add screenshot here when available -->
-<!-- ![Providers App Screenshot](YOUR_IMAGE_URL) -->
+![Providers App Screenshot](https://github.com/user-attachments/assets/17dbf57f-2ec8-47bd-b37f-e6b3991e135e)
 
 </td>
 <td width="50%">
