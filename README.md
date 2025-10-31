@@ -127,7 +127,7 @@ Nigeria's premier holistic wellness platform integrating spa bookings, pharmacy 
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
     
 **SerEase**
 
@@ -141,12 +141,12 @@ Food, Pharmacy & Grocery Delivery App (In Development – On Hold)
 🔗 [Visit Site](https://ser-ease-web.vercel.app/)
 
 ![Website Screenshot](https://github.com/user-attachments/assets/838ce107-9a2a-4bc4-9422-11f2376c1510)
-</td>
-<td width="50%">
-    
-**SaviezTech Website**
 
-At Saviez, we build software for people — developing practical, user-centered digital solutions that help businesses grow and stay competitive.
+</td>
+<td width="50%" valign="top">
+  
+**SaviezTech Website**
+At Saviez, we build software for people ...developing practical, user-centered digital solutions that help businesses grow and stay competitive.
 
 As the CTO and Frontend Developer, I handled development of our company website (savieztech.com) and contributed to several client-facing projects. My key contributions include:
 - Designing and building the Saviez website from scratch using Next.js and Tailwind CSS, focusing on speed, accessibility, and responsive design.
