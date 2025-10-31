@@ -194,7 +194,7 @@ A shipping and logistics platform offering seamless cargo transportation, secure
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Bill-Blitz
 
@@ -207,17 +207,20 @@ User-friendly and highly interactive billing application designed to streamline 
 <!-- ![Bill-Blitz Screenshot](YOUR_IMAGE_URL) -->
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### CSC-InfoNest
 
 Computer science CIT306 group project. I personally handled the design, frontend and backend development of this simple department website.
 The features of the website includes:
-FOR ADMIN
+# FOR ADMIN
+
 - Results, Timetables (Exam, Lecture), Announcements and Events Upload
 - Ability to specify semester and session
 - Delete functionality and storage cascading
-PUBLIC
+  
+# PUBLIC
+
 - View, Sort and view current data
 - Highly responsive and accessible
 
