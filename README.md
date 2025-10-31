@@ -23,7 +23,8 @@
 - 💡 Passionate about **performance optimization**, **accessibility**, and **clean code**
 - 🤝 Open to **collaborations**, **open-source contributions**, and **tech discussions**
 
-**📧 Contact:** [onelsonuchechukwu@gmail.com](mailto:onelsonuchechukwu@gmail.com) | [leonelson38@gmail.com](mailto:leonelson38@gmail.com)
+**📧 Contact:** [onelsonuchechukwu@gmail.com](mailto:onelsonuchechukwu@gmail.com) | [leonenelson38@gmail.com](mailto:leonenelson38@gmail.com)
+**📃 Resume:** [View](https://github.com/user-attachments/files/23274571/Resume.pdf)
 
 ---
 
@@ -95,7 +96,7 @@ Driving technical strategy and leading frontend development for innovative welln
 
 Nigeria's premier holistic wellness platform integrating spa bookings, pharmacy consultations, and luxury product orders in one seamless experience.
 
-**Tech Stack:** Next.js, TypeScript, TailwindCSS
+**Tech Stack:** Next.js, TypeScript, TailwindCSS, Redux
 
 **My Contributions:**
 - Built main website (with @treasure56)
@@ -105,13 +106,55 @@ Nigeria's premier holistic wellness platform integrating spa bookings, pharmacy 
 🔗 [Visit Site](https://www.radiantrepose.com)
 
 <!-- Add screenshot here when available -->
-<!-- ![Radiant Repose Screenshot](YOUR_IMAGE_URL) -->
+![Radiant Repose Screenshot](https://github.com/user-attachments/assets/396b70e3-5353-4bd2-a9ba-212fce6a2edf)
 
 </td>
 <td width="50%">
+  
+**Mr Zion Portfolio Site**
 
-<!-- Add more Saviez Tech projects here -->
+- Built with Svelte 5 + SvelteKit for reactive, lightweight UI
+- Powered by Sanity.io headless CMS for real-time content updates
+- Styled with Tailwind CSS + Bits UI for clean, accessible components
+- Integrated Cloudinary for optimized images & video delivery, Stripe for payment.
+- Type-safe with TypeScript and custom hooks
+- Used *Sanity CMS* for content management
 
+🔗 [Visit Site](https://www.zionoshiobugie.com)
+
+![Website Screenshot](https://github.com/user-attachments/assets/ce0ffda8-12ae-4680-96fb-d4c4b3286214)
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+    
+**SerEase**
+
+Food, Pharmacy & Grocery Delivery App (In Development – On Hold)
+- Built with Next.js App Router + Tailwind CSS for fast, responsive UI
+- Powered by Zod for type-safe forms and input validation
+- State managed with Redux Toolkit for cart, user, and order flow
+- Unified platform connecting restaurants, pharmacies, and supermarkets
+- Features menu browsing, real-time cart, secure checkout, and delivery tracking
+
+🔗 [Visit Site](https://ser-ease-web.vercel.app/)
+
+![Website Screenshot](https://github.com/user-attachments/assets/2cffc2c8-bdc5-436f-a37b-7f7347edd796)
+</td>
+<td width="50%">
+    
+**SaviezTech Website**
+
+At Saviez, we build software for people — developing practical, user-centered digital solutions that help businesses grow and stay competitive.
+
+As the CTO and Frontend Developer, I handled development of our company website (savieztech.com) and contributed to several client-facing projects. My key contributions include:
+- Designing and building the Saviez website from scratch using Next.js and Tailwind CSS, focusing on speed, accessibility, and responsive design.
+- Used *Sanity CMS* for content management
+
+🔗 [Visit Site](https://ser-ease-web.vercel.app/)
+
+![Website Screenshot](https://github.com/user-attachments/assets/355e7595-f496-4fcd-b318-6eb3cb825839)
 </td>
 </tr>
 </table>
