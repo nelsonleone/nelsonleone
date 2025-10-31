@@ -42,7 +42,7 @@ Leading frontend development for a comprehensive healthcare platform, delivering
 - Sign up and complete multi-step verification (license, credentials, identity)
 - Prescribe medications with real-time drug interaction checks and e-signatures
 - Chat securely with patients via encrypted, HIPAA-compliant messaging
-- View real-time patient updates — vitals, lab results, appointment history
+- View real-time patient updates, vitals, lab results, appointment history
 - Manage shared access for multiple doctors under the same provider group (clinics, hospitals, or networks)
 - Enhanced UI/UX design resulting in improved user engagement and accessibility scores
 - I rebuilt legacy UI components into a clean, intuitive interface using React + TypeScript, improved performance by 70%, and ensured full mobile responsiveness for on-call doctors.
