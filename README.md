@@ -140,7 +140,7 @@ Food, Pharmacy & Grocery Delivery App (In Development – On Hold)
 
 🔗 [Visit Site](https://ser-ease-web.vercel.app/)
 
-![Website Screenshot](https://github.com/user-attachments/assets/2cffc2c8-bdc5-436f-a37b-7f7347edd796)
+![Website Screenshot](https://github.com/user-attachments/assets/838ce107-9a2a-4bc4-9422-11f2376c1510)
 </td>
 <td width="50%">
     
