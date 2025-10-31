@@ -61,7 +61,7 @@ A comprehensive platform enabling healthcare professionals to manage patient car
 
 **Tech Stack:** Next.js, TypeScript, TailwindCSS, REST API
 
-🔗 [Live Demo](https://providers.theraswift.co)
+🔗 [Website](https://providers.theraswift.co)
 
 <!-- Add screenshot here when available -->
 ![Providers App Screenshot](https://github.com/user-attachments/assets/17dbf57f-2ec8-47bd-b37f-e6b3991e135e)
