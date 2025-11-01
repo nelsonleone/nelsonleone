@@ -86,7 +86,7 @@ Driving technical vision and building **wellness, e-commerce, and portfolio plat
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="vertical-align: top">
 
 <div class="p-5 border border-purple-200 rounded-lg bg-purple-50">
 
@@ -106,7 +106,7 @@ Nigeria’s #1 holistic wellness platform with spa bookings, pharmacy, and luxur
 </div>
 
 </td>
-<td width="50%">
+<td width="50%" style="vertical-align: top">
 
 <div class="p-5 border border-indigo-200 rounded-lg bg-indigo-50">
 
@@ -129,7 +129,7 @@ Dynamic portfolio with **Sanity CMS**, **Stripe payments**, and **custom video p
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" style="vertical-align: top">
 
 <div class="p-5 border border-yellow-200 rounded-lg bg-yellow-50">
 
@@ -144,12 +144,13 @@ Multi-vendor delivery app for **food, pharmacy, and groceries**.
 
 [Visit Site](https://ser-ease-web.vercel.app/)
 
-<img width="100%" alt="SerEase" src="https://github.com/user-attachments/assets/48986134-2151-4560-a555-dd291a86cb44" />
+![Screenshot](https://github.com/user-attachments/assets/2de19ebe-6ddb-4ede-9dd4-51ecc2dd43fb)
+
 
 </div>
 
 </td>
-<td width="50%">
+<td width="50%" style="vertical-align: top">
 
 <div class="p-5 border border-green-200 rounded-lg bg-green-50">
 
@@ -177,7 +178,7 @@ Official company site built from scratch with **content management**.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="vertical-align: top">
 
 <div class="p-5 border border-teal-200 rounded-lg bg-teal-50">
 
@@ -192,7 +193,7 @@ Full-featured logistics platform with tracking and shipping.
 </div>
 
 </td>
-<td width="50%">
+<td width="50%" style="vertical-align: top">
 
 <div class="p-5 border border-orange-200 rounded-lg bg-orange-50">
 
@@ -210,7 +211,7 @@ Secure cargo transport and storage platform.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" style="vertical-align: top">
 
 <div class="p-5 border border-pink-200 rounded-lg bg-pink-50">
 
@@ -225,7 +226,7 @@ Interactive billing app for businesses.
 </div>
 
 </td>
-<td width="50%">
+<td width="50%" style="vertical-align: top">
 
 <div class="p-5 border border-cyan-200 rounded-lg bg-cyan-50">
 
