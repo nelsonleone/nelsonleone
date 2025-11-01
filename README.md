@@ -23,7 +23,7 @@
 - 💡 Passionate about **performance optimization**, **accessibility**, and **clean code**
 - 🤝 Open to **collaborations**, **open-source contributions**, and **tech discussions**
 
-**📧 Contact:** [onelsonuchechukwu@gmail.com](mailto:onelsonuchechukwu@gmail.com) | [leonenelson38@gmail.com](mailto:leonenelson38@gmail.com)
+**📧 Contact:** [onelsonuchechukwu@gmail.com](mailto:onelsonuchechukwu@gmail.com) | [leonenelson38@gmail.com](mailto:leonenelson38@gmail.com)  
 **📃 Resume:** [View](https://github.com/user-attachments/files/23274571/Resume.pdf)
 
 ---
@@ -51,11 +51,9 @@ Leading frontend development for a comprehensive healthcare platform, delivering
 
 #### 📦 Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**Providers App**
+### **Providers App**
 
 A comprehensive platform enabling healthcare professionals to manage patient care, prescriptions, appointments, and administrative tasks.
 
@@ -63,17 +61,9 @@ A comprehensive platform enabling healthcare professionals to manage patient car
 
 🔗 [Website](https://providers.theraswift.co)
 
-<!-- Add screenshot here when available -->
 ![Providers App Screenshot](https://github.com/user-attachments/assets/17dbf57f-2ec8-47bd-b37f-e6b3991e135e)
 
-</td>
-<td width="50%">
-
-<!-- Add more Theraswift projects here -->
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -88,11 +78,9 @@ Driving technical strategy and leading frontend development for innovative welln
 
 #### 📦 Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**Radiant Repose**
+### **Radiant Repose**
 
 Nigeria's premier holistic wellness platform integrating spa bookings, pharmacy consultations, and luxury product orders in one seamless experience.
 
@@ -105,33 +93,40 @@ Nigeria's premier holistic wellness platform integrating spa bookings, pharmacy 
 
 🔗 [Visit Site](https://www.radiantrepose.com)
 
-<!-- Add screenshot here when available -->
 ![Radiant Repose Screenshot](https://github.com/user-attachments/assets/396b70e3-5353-4bd2-a9ba-212fce6a2edf)
 
-</td>
-<td width="50%">
-  
-**Mr Zion Portfolio Site**
+</div>
 
+---
+
+<div align="center">
+
+### **Mr Zion Portfolio Site**
+
+A modern portfolio showcasing creative work with seamless content management and payment integration.
+
+**Key Features:**
 - Built with Svelte 5 + SvelteKit for reactive, lightweight UI
 - Powered by Sanity.io headless CMS for real-time content updates
 - Styled with Tailwind CSS + Bits UI for clean, accessible components
-- Integrated Cloudinary for optimized images & video delivery, Stripe for payment.
+- Integrated Cloudinary for optimized images & video delivery, Stripe for payment
 - Type-safe with TypeScript and custom hooks
-- Used *Sanity CMS* for content management
 
 🔗 [Visit Site](https://www.zionoshiobugie.com)
 
 ![Website Screenshot](https://github.com/user-attachments/assets/ce0ffda8-12ae-4680-96fb-d4c4b3286214)
-</td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
-    
-**SerEase**
+</div>
+
+---
+
+<div align="center">
+
+### **SerEase**
 
 Food, Pharmacy & Grocery Delivery App (In Development – On Hold)
+
+**Key Features:**
 - Built with Next.js App Router + Tailwind CSS for fast, responsive UI
 - Powered by Zod for type-safe forms and input validation
 - State managed with Redux Toolkit for cart, user, and order flow
@@ -140,35 +135,37 @@ Food, Pharmacy & Grocery Delivery App (In Development – On Hold)
 
 🔗 [Visit Site](https://ser-ease-web.vercel.app/)
 
-<img width="250" alt="image"  src="https://github.com/user-attachments/assets/48986134-2151-4560-a555-dd291a86cb44" />
+<img width="500" alt="SerEase Screenshot" src="https://github.com/user-attachments/assets/48986134-2151-4560-a555-dd291a86cb44" />
 
-</td>
-<td width="50%" valign="top">
-  
-**SaviezTech Website**
+</div>
 
-At Saviez, we build software for people ...developing practical, user-centered digital solutions that help businesses grow and stay competitive.
+---
 
-As the CTO and Frontend Developer, I handled development of our company website (savieztech.com) and contributed to several client-facing projects. My key contributions include:
-- Designing and building the Saviez website from scratch using Next.js and Tailwind CSS, focusing on speed, accessibility, and responsive design.
-- Used *Sanity CMS* for content management
+<div align="center">
 
-🔗 [Visit Site](https://ser-ease-web.vercel.app/)
+### **SaviezTech Website**
+
+At Saviez, we build software for people... developing practical, user-centered digital solutions that help businesses grow and stay competitive.
+
+As the CTO and Frontend Developer, I handled development of our company website (savieztech.com) and contributed to several client-facing projects.
+
+**My Key Contributions:**
+- Designing and building the Saviez website from scratch using Next.js and Tailwind CSS, focusing on speed, accessibility, and responsive design
+- Used Sanity CMS for content management
+
+🔗 [Visit Site](https://www.savieztech.com)
 
 ![Website Screenshot](https://github.com/user-attachments/assets/355e7595-f496-4fcd-b318-6eb3cb825839)
-</td>
-</tr>
-</table>
+
+</div>
 
 ---
 
 ## 💡 Personal Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### GiG-Logistics-C
+### **GiG-Logistics-C**
 
 A full-featured logistics website built with Next.js 14 and professional development tools, offering comprehensive shipping and tracking solutions.
 
@@ -176,12 +173,13 @@ A full-featured logistics website built with Next.js 14 and professional develop
 
 🔗 [Live Demo](https://gig-logistics-nelsonleone.vercel.app/) | [Source Code](https://github.com/nelsonleone/gig-logistics)
 
-<!-- ![GiG-Logistics Screenshot](YOUR_IMAGE_URL) -->
+</div>
 
-</td>
-<td width="50%">
+---
 
-### CargoNest
+<div align="center">
+
+### **CargoNest**
 
 A shipping and logistics platform offering seamless cargo transportation, secure storage services, and efficient delivery solutions for businesses and individuals. 🚛📦
 
@@ -189,14 +187,13 @@ A shipping and logistics platform offering seamless cargo transportation, secure
 
 🔗 [Live Demo](https://cargonest.vercel.app/)
 
-<!-- ![CargoNest Screenshot](YOUR_IMAGE_URL) -->
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### Bill-Blitz
+<div align="center">
+
+### **Bill-Blitz**
 
 User-friendly and highly interactive billing application designed to streamline billing processes and maximize productivity.
 
@@ -204,23 +201,24 @@ User-friendly and highly interactive billing application designed to streamline 
 
 🔗 [Live Demo](https://bill-blitz-nelsonleone.vercel.app/) | [Source Code](https://github.com/nelsonleone/bill-blitz/)
 
-<!-- ![Bill-Blitz Screenshot](YOUR_IMAGE_URL) -->
+</div>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### CSC-InfoNest
+<div align="center">
+
+### **CSC-InfoNest**
 
 Computer science CIT306 group project. I personally handled the design, frontend and backend development of this simple department website.
-The features of the website includes:
-#### FOR ADMIN
 
+**Features:**
+
+**FOR ADMIN**
 - Results, Timetables (Exam, Lecture), Announcements and Events Upload
 - Ability to specify semester and session
 - Delete functionality and storage cascading
-  
-#### PUBLIC
 
+**PUBLIC**
 - View, Sort and view current data
 - Highly responsive and accessible
 
@@ -228,9 +226,7 @@ The features of the website includes:
 
 🔗 [Live Demo](https://csc-infonest-group5.vercel.app/) | [Source Code](https://github.com/nelsonleone/CSCInfoNest/)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
