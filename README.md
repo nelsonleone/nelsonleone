@@ -30,66 +30,74 @@
 
 ## Professional Experience
 
-### Theraswift
+---
+
+### Theraswift  
 <img src="https://github.com/user-attachments/assets/85aef1ee-9b70-4bf5-9b1e-e2ac467df593" width="250" alt="Theraswift Logo"/>
 
-**Lead Frontend Developer** | *May 2024 - Present* | Remote (Full-time)
+**Lead Frontend Developer** | *May 2024 – Present* | Remote (Full-time)
 
-Leading frontend development for a comprehensive healthcare platform, delivering high-performance, secure, and accessible web applications.
+Leading frontend architecture and delivery for a **HIPAA-compliant healthcare platform** used by doctors, clinics, and hospitals.
 
 **Key Achievements:**
-- Architected and developed the main healthcare web application using **Next.js** and modern frontend technologies
-- Sign up and complete multi-step verification (license, credentials, identity)
-- Prescribe medications with real-time drug interaction checks and e-signatures
-- Chat securely with patients via encrypted, HIPAA-compliant messaging
-- View real-time patient updates, vitals, lab results, appointment history
-- Manage shared access for multiple doctors under the same provider group
-- Enhanced UI/UX design resulting in improved user engagement and accessibility scores
-- Rebuilt legacy UI components into a clean, intuitive interface using React + TypeScript, improved performance by 70%, and ensured full mobile responsiveness
+- Built the **Provider Portal** from scratch using **Next.js + TypeScript**
+- Implemented **multi-step doctor verification**, **real-time prescription**, **secure chat**, and **shared clinic access**
+- Improved performance by **70%** and achieved **95+ Lighthouse scores**
+- Ensured **mobile responsiveness** for on-call doctors
 
 **Company:** [theraswift.co](https://theraswift.co)
 
----
+#### Projects I Built at Theraswift
 
-<div class="p-6 border-l-4 border-blue-500 bg-blue-50 rounded-r-lg mb-6">
+<table>
+<tr>
+<td width="100%">
+
+<div class="p-5 border-l-4 border-blue-600 bg-blue-50 rounded-r-lg">
 
 ### **Providers App**
 
-A comprehensive platform enabling healthcare professionals to manage patient care, prescriptions, appointments, and administrative tasks.
+A secure, responsive portal for doctors to manage patients, prescribe meds, chat, and collaborate across clinics.
 
 **Tech Stack:** Next.js, TypeScript, TailwindCSS, REST API
 
-[Website](https://providers.theraswift.co)
+[Live Demo](https://providers.theraswift.co)
 
-![Providers App Screenshot](https://github.com/user-attachments/assets/17dbf57f-2ec8-47bd-b37f-e6b3991e135e)
+![Providers App](https://github.com/user-attachments/assets/17dbf57f-2ec8-47bd-b37f-e6b3991e135e)
 
 </div>
 
+</td>
+</tr>
+</table>
+
 ---
 
-### Saviez Tech
+### Saviez Tech  
 <img src="https://github.com/user-attachments/assets/ea07cd72-cee0-4cd6-9a5e-bda12462e2e3" width="250" alt="Saviez Tech Logo"/>
 
-**CTO & Lead Frontend Developer** | *December 2024 - Present* | Hybrid
+**CTO & Lead Frontend Developer** | *December 2024 – Present* | Hybrid
 
-Driving technical strategy and leading frontend development for innovative wellness and e-commerce solutions.
+Driving technical vision and building **wellness, e-commerce, and portfolio platforms** for clients and internal use.
 
 **Company:** [savieztech.com](https://www.savieztech.com)
 
----
+#### Projects I Built at Saviez Tech
 
-<div class="p-6 border border-gray-200 rounded-xl bg-white shadow-sm mb-6">
+<table>
+<tr>
+<td width="50%">
+
+<div class="p-5 border border-purple-200 rounded-lg bg-purple-50">
 
 ### **Radiant Repose**
 
-Nigeria's premier holistic wellness platform integrating spa bookings, pharmacy consultations, and luxury product orders.
+Nigeria’s #1 holistic wellness platform with spa bookings, pharmacy, and luxury shopping.
 
-**Tech Stack:** Next.js, TypeScript, TailwindCSS, Redux
-
-**My Contributions:**
-- Built main website (with @treasure56)
-- Developed complete POS system
-- Implemented booking and consultation systems
+**My Role:**  
+- Built full site with **@treasure56**  
+- Developed **POS system**  
+- Implemented **booking & consultation flows**
 
 [Visit Site](https://www.radiantrepose.com)
 
@@ -97,40 +105,42 @@ Nigeria's premier holistic wellness platform integrating spa bookings, pharmacy 
 
 </div>
 
----
+</td>
+<td width="50%">
 
-<div class="p-6 border border-purple-200 rounded-xl bg-purple-50 shadow-sm mb-6">
+<div class="p-5 border border-indigo-200 rounded-lg bg-indigo-50">
 
-### **Mr Zion Portfolio Site**
+### **Mr Zion Portfolio**
 
-A modern portfolio showcasing creative work with seamless content management and payment integration.
+Dynamic portfolio with **Sanity CMS**, **Stripe payments**, and **custom video player**.
 
-**Key Features:**
-- Built with Svelte 5 + SvelteKit
-- Powered by Sanity.io CMS
-- Styled with Tailwind + Bits UI
-- Integrated Cloudinary & Stripe
-- Type-safe with TypeScript
+**Tech Stack:**  
+- Svelte 5 + SvelteKit  
+- Sanity.io, Cloudinary, Stripe  
+- TypeScript, custom hooks
 
 [Visit Site](https://www.zionoshiobugie.com)
 
-![Mr Zion Site](https://github.com/user-attachments/assets/ce0ffda8-12ae-4680-96fb-d4c4b3286214)
+![Mr Zion](https://github.com/user-attachments/assets/ce0ffda8-12ae-4680-96fb-d4c4b3286214)
 
 </div>
 
----
+</td>
+</tr>
 
-<div class="p-6 border border-yellow-200 rounded-xl bg-yellow-50 shadow-sm mb-6">
+<tr>
+<td width="50%">
 
-### **SerEase**
+<div class="p-5 border border-yellow-200 rounded-lg bg-yellow-50">
 
-Food, Pharmacy & Grocery Delivery App *(In Development – On Hold)*
+### **SerEase** *(On Hold)*
 
-**Key Features:**
-- Next.js App Router + Tailwind CSS
-- Zod for form validation
-- Redux Toolkit for state
-- Unified restaurant, pharmacy, and supermarket platform
+Multi-vendor delivery app for **food, pharmacy, and groceries**.
+
+**Tech Stack:**  
+- Next.js App Router  
+- Redux Toolkit, Zod  
+- Real-time cart & checkout
 
 [Visit Site](https://ser-ease-web.vercel.app/)
 
@@ -138,23 +148,28 @@ Food, Pharmacy & Grocery Delivery App *(In Development – On Hold)*
 
 </div>
 
----
+</td>
+<td width="50%">
 
-<div class="p-6 border border-green-200 rounded-xl bg-green-50 shadow-sm mb-6">
+<div class="p-5 border border-green-200 rounded-lg bg-green-50">
 
 ### **SaviezTech Website**
 
-At Saviez, we build software for people... developing practical, user-centered digital solutions.
+Official company site built from scratch with **content management**.
 
-**My Key Contributions:**
-- Designed and built company site from scratch using Next.js + Tailwind
-- Integrated Sanity CMS for content
+**My Role:**  
+- Full design & development  
+- Sanity CMS integration
 
 [Visit Site](https://www.savieztech.com)
 
 ![SaviezTech](https://github.com/user-attachments/assets/355e7595-f496-4fcd-b318-6eb3cb825839)
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -164,30 +179,30 @@ At Saviez, we build software for people... developing practical, user-centered d
 <tr>
 <td width="50%">
 
-<div class="p-5 border border-indigo-200 rounded-lg bg-indigo-50">
+<div class="p-5 border border-teal-200 rounded-lg bg-teal-50">
 
 ### **GiG-Logistics-C**
 
-A full-featured logistics website with shipping and tracking.
+Full-featured logistics platform with tracking and shipping.
 
 **Tech Stack:** Next.js 14, TypeScript, TailwindCSS
 
-[Live Demo](https://gig-logistics-nelsonleone.vercel.app/) | [Source](https://github.com/nelsonleone/gig-logistics)
+[Live](https://gig-logistics-nelsonleone.vercel.app/) | [Source](https://github.com/nelsonleone/gig-logistics)
 
 </div>
 
 </td>
 <td width="50%">
 
-<div class="p-5 border border-teal-200 rounded-lg bg-teal-50">
+<div class="p-5 border border-orange-200 rounded-lg bg-orange-50">
 
 ### **CargoNest**
 
-Shipping & logistics platform with secure storage and delivery.
+Secure cargo transport and storage platform.
 
 **Tech Stack:** Next.js, React, TailwindCSS
 
-[Live Demo](https://cargonest.vercel.app/)
+[Live](https://cargonest.vercel.app/)
 
 </div>
 
@@ -201,30 +216,30 @@ Shipping & logistics platform with secure storage and delivery.
 
 ### **Bill-Blitz**
 
-Interactive billing app to streamline invoicing and payments.
+Interactive billing app for businesses.
 
 **Tech Stack:** Next.js, React, TypeScript
 
-[Live Demo](https://bill-blitz-nelsonleone.vercel.app/) | [Source](https://github.com/nelsonleone/bill-blitz/)
+[Live](https://bill-blitz-nelsonleone.vercel.app/) | [Source](https://github.com/nelsonleone/bill-blitz/)
 
 </div>
 
 </td>
 <td width="50%">
 
-<div class="p-5 border border-orange-200 rounded-lg bg-orange-50">
+<div class="p-5 border border-cyan-200 rounded-lg bg-cyan-50">
 
 ### **CSC-InfoNest**
 
-Computer Science department portal (CIT306 group project).
+Computer Science department portal (group project).
 
-**Features:**
-- Admin: Upload results, timetables, events
-- Public: View, sort, responsive design
+**Features:**  
+- Admin: Upload results, timetables, events  
+- Public: View, sort, responsive
 
 **Tech Stack:** Next.js, Supabase, Redux, Zod
 
-[Live Demo](https://csc-infonest-group5.vercel.app/) | [Source](https://github.com/nelsonleone/CSCInfoNest/)
+[Live](https://csc-infonest-group5.vercel.app/) | [Source](https://github.com/nelsonleone/CSCInfoNest/)
 
 </div>
 
