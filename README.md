@@ -186,7 +186,7 @@ Official company site built from scratch with **content management**.
 
 Full-featured logistics platform with tracking and shipping.
 
-**Tech Stack:** Next.js 14, TypeScript, TailwindCSS
+**Tech Stack:** Next.js 14, TypeScript, TailwindCSS, Sanity CMS
 
 [Live](https://gig-logistics-nelsonleone.vercel.app/) | [Source](https://github.com/nelsonleone/gig-logistics)
 
@@ -201,7 +201,7 @@ Full-featured logistics platform with tracking and shipping.
 
 Secure cargo transport and storage platform.
 
-**Tech Stack:** Next.js, React, TailwindCSS
+**Tech Stack:** Next.js, React, TailwindCSS, Express And Node Server
 
 [Live](https://cargonest.vercel.app/)
 
