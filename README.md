@@ -119,7 +119,7 @@ Dynamic portfolio with **Sanity CMS**, **Stripe payments**, and **custom video p
 - Sanity.io, Cloudinary, Stripe  
 - TypeScript, custom hooks
 
-[Visit Site](https://mr-zion-oshobugie-website.vercel.app)
+[Visit Site](https://zionoshiobugie.com/)
 
 ![Mr Zion](https://github.com/user-attachments/assets/ce0ffda8-12ae-4680-96fb-d4c4b3286214)
 
