@@ -18,7 +18,7 @@
 
 **Frontend-focused Full-Stack Developer** with 3+ years of experience crafting modern, scalable, and user-centric web applications. Currently pursuing Computer Science at the **Federal University of Technology, Owerri (FUTO)**, while leading development teams and building innovative solutions in the healthcare and wellness tech space.
 
-- Specializing in **React**, **Next.js**, **Svelte**, and **TypeScript** ecosystems  
+- Specializing in **React**, **Next.js**, **Svelte**, **Nest.js**, and **TypeScript** ecosystems  
 - Exploring **Full-Stack Architecture** & **Cloud Infrastructure**  
 - Passionate about **performance optimization**, **accessibility**, and **clean code**  
 - Open to **collaborations**, **open-source contributions**, and **tech discussions**
@@ -61,7 +61,7 @@ A secure, responsive portal for doctors to manage patients, prescribe meds, chat
 
 **Tech Stack:** Next.js, TypeScript, TailwindCSS, REST API
 
-[Live Demo](https://providers.theraswift.co)
+[Live](https://providers.theraswift.co)
 
 ![Providers App](https://github.com/user-attachments/assets/17dbf57f-2ec8-47bd-b37f-e6b3991e135e)
 
@@ -170,7 +170,54 @@ Official company site built from scratch with **content management**.
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" style="vertical-align: top">
+
+<div class="p-5 border border-yellow-200 rounded-lg bg-yellow-50">
+
+### **AV-Wedding Website**
+
+Developed a beautiful, fully responsive wedding website for a couple's special day, serving as an all-in-one digital hub for guests.
+Key features include:
+
+- Interactive countdown timer to build excitement leading up to the wedding
+- Comprehensive photo gallery with dedicated pre-wedding and post-wedding sections
+- Dynamic reel updates uploaded by family and friends for real-time memories
+- Integrated live streaming functionality for remote guests
+- Interactive map with directions to ceremony and reception venues
+- Heartwarming "Our Story" timeline showcasing the couple's journey
+- Additional touches like RSVP management, gift registry links, and guestbook
+
+**Tech Stack:**  
+- Next.js 
+- Redux Toolkit, Zod  
+- Gsap Animations
+
+[Visit Site](https://www.adavizid.com/)
+
+![Screenshot](https://github.com/user-attachments/assets/a0704ccd-3f42-4d1c-9fe3-578e2a5a61ce)
+
+
+</div>
+</td>
+</tr>
 </table>
+
+---
+
+
+### Qavdev Limited  
+<img src="https://github.com/user-attachments/assets/85aef1ee-9b70-4bf5-9b1e-e2ac467df593" width="250" alt="Theraswift Logo"/>
+
+**Frontend Developer** | *Jan 2026 – Present* | Remote (Contract)
+
+Crafting the company's minimum viable product with sophisticated feature integration, guaranteeing an impeccable final delivery.
+
+**Key Achievements: (coming soon)**
+- 
+
+**Company:** [qavdev.com](http://www.qavdev.com)
 
 ---
 
