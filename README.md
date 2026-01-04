@@ -208,7 +208,7 @@ Key features include:
 
 
 ### Qavdev Limited  
-<img width="250" alt="Qavdev Limited Logo" src="https://github.com/user-attachments/assets/5dfef2fa-3cd2-422f-a2eb-07694a23fc17" />
+<img width="250" height="100" alt="Qavdev Limited Logo" src="https://github.com/user-attachments/assets/5dfef2fa-3cd2-422f-a2eb-07694a23fc17" />
 
 **Frontend Developer** | *Jan 2026 – Present* | Remote (Contract)
 
