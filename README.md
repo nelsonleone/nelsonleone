@@ -208,7 +208,7 @@ Key features include:
 
 
 ### Qavdev Limited  
-<img src="https://github.com/user-attachments/assets/85aef1ee-9b70-4bf5-9b1e-e2ac467df593" width="250" alt="Theraswift Logo"/>
+<img width="250" alt="Qavdev Limited Logo" src="https://github.com/user-attachments/assets/5dfef2fa-3cd2-422f-a2eb-07694a23fc17" />
 
 **Frontend Developer** | *Jan 2026 – Present* | Remote (Contract)
 
