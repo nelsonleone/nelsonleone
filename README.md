@@ -35,7 +35,7 @@
 ### Theraswift  
 <img src="https://github.com/user-attachments/assets/85aef1ee-9b70-4bf5-9b1e-e2ac467df593" width="250" alt="Theraswift Logo"/>
 
-**Lead Frontend Developer** | *May 2024 – Present* | Remote (Full-time)
+**Lead Frontend Developer** | *May 2024 – 2024* | Remote (Part-time)
 
 Leading frontend architecture and delivery for a **HIPAA-compliant healthcare platform** used by doctors, clinics, and hospitals.
 
