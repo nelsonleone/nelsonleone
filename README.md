@@ -16,7 +16,7 @@
 
 ## About Me
 
-**Frontend-focused Full-Stack Developer** with 3+ years of experience crafting modern, scalable, and user-centric web applications. Currently pursuing Computer Science at the **Federal University of Technology, Owerri (FUTO)**, while leading development teams and building innovative solutions in the healthcare and wellness tech space.
+**Frontend-focused Full-Stack Developer** with 4+ years of experience crafting modern, scalable, and user-centric web applications. Currently pursuing Computer Science at the **Federal University of Technology, Owerri (FUTO)**, while leading development teams and building innovative solutions in the healthcare and wellness tech space.
 
 - Specializing in **React**, **Next.js**, **Svelte**, **Nest.js**, and **TypeScript** ecosystems  
 - Exploring **Full-Stack Architecture** & **Cloud Infrastructure**  
