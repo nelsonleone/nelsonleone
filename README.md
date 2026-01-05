@@ -6,7 +6,7 @@
 
 [![Open for Work](https://img.shields.io/badge/Status-Open%20For%20Work-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:onelsonuchechukwu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/nelsonleone)
-[![Download CV](https://img.shields.io/badge/Download-CV-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/user-attachments/files/23274571/Resume.pdf)
+[![Download CV](https://github.com/user-attachments/files/24430192/Profile.pdf)
 
 <img src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" width="500"/>
 
